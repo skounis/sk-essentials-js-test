@@ -1,3 +1,4 @@
 import  * as essentials from 'sk-essentials'
-essentials.merci()
+const msg = essentials.merci();
+console.log(msg);
 
