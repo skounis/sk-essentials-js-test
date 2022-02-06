@@ -1,3 +1,3 @@
-const essentials = require('sk-essentials')
+import  * as essentials from 'sk-essentials'
 essentials.merci()
 

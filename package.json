@@ -1,6 +1,7 @@
 {
   "name": "sk-essentials-test",
-  "version": "1.0.0",
+  "type": "module",
+  "version": "2.0.0",
   "description": "Test the sk-essentials JS module.",
   "main": "index.js",
   "scripts": {
@@ -18,6 +19,6 @@
   },
   "homepage": "https://github.com/skounis/sk-essentials-js-test#readme",
   "dependencies": {
-    "sk-essentials": "^1.0.0"
+    "sk-essentials": "^2.0.0"
   }
 }
