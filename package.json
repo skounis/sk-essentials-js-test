@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/skounis/sk-essentials-test.git"
+    "url": "git+https://github.com/skounis/sk-essentials-js-test.git"
   },
   "author": "Stavros Kounis",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/skounis/sk-essentials-test/issues"
+    "url": "https://github.com/skounis/sk-essentials-js-test/issues"
   },
-  "homepage": "https://github.com/skounis/sk-essentials-test#readme",
+  "homepage": "https://github.com/skounis/sk-essentials-js-test#readme",
   "dependencies": {
     "sk-essentials": "^1.0.0"
   }
